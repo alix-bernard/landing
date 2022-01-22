@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC&family=Asar&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family:'Asar', serif;
+	font-size: 18px;
+	color:rgb(22 22 22);
+    background-color: rgb(200 200 200);
+    text-align: justify;
+    margin: 0px auto;
+}
+
+h1,h2,h3{
+	font-family:'Amatic SC', cursive;
+	font-weight: bold;
+	color:#60B2E5;
+}

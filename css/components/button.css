@@ -1,0 +1,23 @@
+.button{
+	width: 120px;
+	text-align: center;
+	margin: 5px auto;
+	border-radius: 4px;
+	background-color: rgba(153, 148, 117,.3);
+	padding-inline: 10px;
+}
+
+.button:hover{
+	background-color: rgba(255,255,255)
+}
+
+a{
+	color:rgb(22 22 22);
+	font-weight: bold;
+	transition: color 0.3s ease;
+}
+
+a:hover {
+	color :#60B2E5;
+	text-decoration: underline;
+}
